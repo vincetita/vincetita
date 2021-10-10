@@ -40,7 +40,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ Callme: *** Vincent *** or *** Vince *** 😊 <br>
+✔ Callme: ***Vincent*** or ***Vince*** 😊 <br>
 ✔ I’m currently transforming a learning platform from Wordpress to a React-based one for **factory24.com**<br>
 ✔ I’m currently learning about **Deno.js**🥰<br>
 ✔ I’m looking to collaborate with any **Open - Source React projects**<br>
