@@ -7,7 +7,6 @@
 <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-50-blue" />
   <img src="https://img.shields.io/badge/Focus-Web%20Delopment-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Berlin%20Germany-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20German%20%26%20Spanish%20%26%20French-brightgreen" />
@@ -30,7 +29,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Vincent T. Sambang N.<b>a Web developer</b> from <b>University Of Roskilde, Denmark</b>,  (" Wisdom is all wealth ")</a>. <br>
+    Hello, I am Vincent T. Sambang N.<b>a Web developer</b> from <b>University Of Roskilde, Denmark</b></a>. <br>
   
   </em> 
   <br>
