@@ -1,89 +1,65 @@
-<p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
-</p>
-<br>
-
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
- </p>
- <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Web%20Delopment-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Berlin%20Germany-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20German%20%26%20Spanish%20%26%20French-brightgreen" />
-</p>
-
-<hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am VINCENT T. SAMBANG N. </h1>
-<h3 align="center">WEB DEVELOPER | DATAMATICIAN </h3>
-<p align="center">
-<a href="#" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vincetita/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
-<a href="#" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
- <a href = "mailto: vincetita@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
-</p>
-</p>
-
-
-
-<p align="center">
-  <em>
-    Hello, I am Vincent T. Sambang N.<b>a Web developer</b> from <b>University Of Roskilde, Denmark</b></a>. <br>
-  
-  </em> 
-  <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-</p>
-<br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-
-✔ Callme: ***Vincent*** or ***Vince*** 😊 <br>
-✔ I’m currently transforming a learning platform from Wordpress to a React-based one for **factory24.com**<br>
-✔ I’m currently learning about **Deno.js**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source React projects**<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
- 
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
-<p align="left">
-  
- 
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
-   <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
-  <code> <img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" width='100'> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
-  <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"> </code>
-  <hr>
-
-
-
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" />
-
-
-
-Last Edited on: 17/04/2021
-
-
-
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vincent Tita Sambang Njuen</title>
+<style>
+:root{--bg:#050914;--card:#0d1728;--text:#f3f7ff;--muted:#a8b7d6;--accent:#00d4ff;--border:rgba(255,255,255,.14)}
+*{box-sizing:border-box}
+body{margin:0;font-family:Segoe UI,Arial,sans-serif;background:radial-gradient(circle at top right,rgba(0,212,255,.14),transparent 28%),linear-gradient(180deg,#050914,#08111f);color:var(--text);line-height:1.65}
+.hero{padding:70px 6vw 50px;text-align:center;background:linear-gradient(135deg,rgba(0,212,255,.18),rgba(124,92,255,.15),transparent);border-bottom:1px solid var(--border)}
+.hero h1{font-size:clamp(2.2rem,5vw,4.6rem);line-height:1.05;margin:0 0 18px}
+.hero h2{color:#dce7ff;font-weight:500;margin:0 0 24px}
+.badges{display:flex;justify-content:center;gap:12px;flex-wrap:wrap}
+.badge{padding:9px 14px;border-radius:999px;border:1px solid rgba(0,212,255,.35);background:rgba(0,212,255,.1);color:#eaffff;font-weight:700}
+main{width:min(92%,1200px);margin:0 auto;padding:52px 0 80px}
+.card{background:rgba(13,23,40,.9);border:1px solid var(--border);border-radius:24px;padding:34px;margin-bottom:26px;box-shadow:0 24px 70px rgba(0,0,0,.35)}
+h2{font-size:clamp(1.6rem,2.6vw,2.3rem);margin-top:0}
+p,li,td{color:var(--muted)}
+a{color:var(--accent)}
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px}
+table{width:100%;border-collapse:collapse;margin-top:16px}
+th,td{padding:12px 14px;border:1px solid var(--border);text-align:left}
+th{background:rgba(0,212,255,.12);color:#eaffff}
+pre{background:#020711;color:#dffcff;border:1px solid var(--border);border-radius:16px;padding:18px;overflow:auto}
+.skill-list{display:flex;flex-wrap:wrap;gap:10px}
+.skill-list span{padding:8px 12px;background:rgba(255,255,255,.06);border:1px solid var(--border);border-radius:999px;color:#dffcff}
+.footer{text-align:center;color:var(--muted);padding:30px;border-top:1px solid var(--border)}
+@media(max-width:850px){.grid{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<section class="hero">
+<h1>Vincent Tita Sambang Njuen</h1>
+<h2>IT System Administrator · Cloud & Infrastructure Engineer · SOC & Cybersecurity Enthusiast</h2>
+<div class="badges"><span class="badge">Berlin, Germany</span><span class="badge">Azure AZ-900</span><span class="badge">Cisco CCST</span><span class="badge">Windows Server</span><span class="badge">Wazuh · Security Onion</span></div>
+</section>
+<main>
+<section class="card"><h2>Professional Summary</h2><p>Experienced IT professional with a background in software development and advanced training in system administration, cloud infrastructure, networking, monitoring, and cybersecurity.</p><p>I specialize in Windows Server, Active Directory, Linux administration, Microsoft Azure, virtualization, monitoring, SIEM, threat detection, incident response, and infrastructure automation.</p></section>
+<section class="card"><h2>Featured Project: Enterprise SOC Lab</h2><p>A complete enterprise-style Security Operations Center lab designed to demonstrate blue-team operations, detection engineering, threat hunting, observability, and incident response.</p><table><tr><th>Layer</th><th>Tools / Systems</th></tr><tr><td>Identity</td><td>Windows Server 2025, AD DS, DNS, Kerberos, GPO</td></tr><tr><td>Endpoint</td><td>Windows 11 Client, Ubuntu Linux</td></tr><tr><td>Attack Simulation</td><td>Kali Linux, Hydra, Nmap, Gobuster</td></tr><tr><td>SIEM / NDR</td><td>Wazuh, Security Onion, Zeek, Suricata</td></tr><tr><td>Monitoring</td><td>Nagios, Prometheus, Grafana</td></tr></table></section>
+<section class="card"><h2>SOC Workflow</h2><pre>Kali Attack
+   ↓
+Target Logs / Network Traffic
+   ↓
+Wazuh + Security Onion
+   ↓
+Prometheus Metrics
+   ↓
+Grafana Dashboards
+   ↓
+Nagios Availability Validation
+   ↓
+SOC Analyst Correlation</pre></section>
+<div class="grid">
+<section class="card"><h2>Windows & Infrastructure</h2><div class="skill-list"><span>Windows Server 2025</span><span>Active Directory</span><span>DNS</span><span>DHCP</span><span>GPO</span><span>PowerShell</span></div></section>
+<section class="card"><h2>Linux & Networking</h2><div class="skill-list"><span>Ubuntu</span><span>Kali Linux</span><span>CentOS</span><span>Bash</span><span>TCP/IP</span><span>VLAN</span><span>Routing</span><span>VPN</span></div></section>
+<section class="card"><h2>Cloud & Virtualization</h2><div class="skill-list"><span>Microsoft Azure</span><span>Azure VMs</span><span>Azure Storage</span><span>VMware</span><span>Hyper-V</span><span>VirtualBox</span></div></section>
+<section class="card"><h2>Monitoring & Security</h2><div class="skill-list"><span>Wazuh</span><span>Security Onion</span><span>Nagios</span><span>Prometheus</span><span>Grafana</span><span>MITRE ATT&CK</span><span>Incident Response</span></div></section>
+</div>
+<section class="card"><h2>Career Targets</h2><ul><li>IT System Administrator</li><li>Level 2 Support Engineer</li><li>Infrastructure Engineer</li><li>Azure Administrator</li><li>SOC Analyst Tier 1 / Tier 2</li><li>Cybersecurity Analyst</li></ul></section>
+<section class="card"><h2>Contact</h2><p>Email: <a href="mailto:vincetita@gmail.com">vincetita@gmail.com</a></p><p>GitHub: <a href="https://github.com/vincetita">https://github.com/vincetita</a></p><p>LinkedIn: <a href="https://www.linkedin.com/in/vincetita/">https://www.linkedin.com/in/vincetita/</a></p></section>
+</main>
+<div class="footer">Building secure, observable, and reliable IT infrastructure — from endpoint to cloud to SOC.</div>
+</body>
+</html>
