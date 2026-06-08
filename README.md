@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-I am an **IT System Administrator** with a strong background in:
+I am an **IT System Administrator/SW/Web Developer** with a strong background in:
 
 * Windows Server Administration
 * Active Directory
